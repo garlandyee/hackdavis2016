@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/thanhle/AndroidStudioProjects/Googlemapv2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1216bf36218ad8f39e3ddb53c64abaae4cb60336">
+        <dex dex="/Users/thanhle/AndroidStudioProjects/Googlemapv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5658879d300e7d2c64ef9f50bf4e0618f9192787/classes.dex" />
+    </item>
+
+</items>
